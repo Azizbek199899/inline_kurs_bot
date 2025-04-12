@@ -1,1 +1,1 @@
-# inline_kurs_bot
+# kurs_inline_bot
